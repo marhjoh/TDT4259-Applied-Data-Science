@@ -1,0 +1,19 @@
+Host Information:
+host_listings_count and host_total_listings_count are identical: False
+host_listings_count and calculated_host_listings_count are identical: False
+Correlation between host_listings_count and calculated_host_listings_count: 0.8706952362162292
+
+Location Information:
+neighbourhood and neighbourhood_cleansed are identical: False
+
+Property Characteristics:
+bathrooms and bathrooms_text contain the same information: False
+
+Pricing and Availability:
+minimum_nights and minimum_minimum_nights are identical: False
+maximum_nights and maximum_maximum_nights are identical: False
+Correlation between availability_30 and availability_60: 0.891664206259772
+Correlation between availability_60 and availability_90: 0.9697933783943321
+Correlation between availability_90 and availability_365: 0.6950474268573623
+
+Review Information:
